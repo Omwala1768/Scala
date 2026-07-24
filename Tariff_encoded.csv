@@ -1,0 +1,1001 @@
+Electronics,Clothing,Price After Tariff,Grocery,Product Name,S.No,Brand Name,Price Before Tariff,Home Appliances,Footwear
+0,0,1091.47,1,Cooking Oil,1,Aashirvaad,791.05,0,0
+0,1,1025.91,0,T-shirt,2,Uniqlo,706.28,0,0
+0,0,930.72,0,Sandals,3,Puma,703.95,0,1
+0,0,1069.87,1,Cooking Oil,4,Saffola,874.9,0,0
+0,0,1094.56,1,Cooking Oil,5,Saffola,746.76,0,0
+0,0,224.39,0,Washing Machine,6,Samsung,195.46,1,0
+0,0,409.62,0,Refrigerator,7,Whirlpool,312.86,1,0
+0,0,1349.22,0,Sneakers,8,Adidas,937.21,0,1
+1,0,12.77,0,Smartphone,9,Samsung,11.31,0,0
+1,0,41.59,0,Smartphone,10,Dell,32.09,0,0
+0,0,26.94,1,Cooking Oil,11,Fortune,22.6,0,0
+1,0,1117.18,0,Laptop,12,Apple,807.63,0,0
+0,0,732.8,0,Sandals,13,Reebok,561.75,0,1
+0,1,226.33,0,T-shirt,14,Uniqlo,160.02,0,0
+0,0,1367.44,1,Cooking Oil,15,Saffola,923.26,0,0
+1,0,310.22,0,Laptop,16,Samsung,212.05,0,0
+0,1,142.53,0,T-shirt,17,Zara,104.56,0,0
+0,1,665.48,0,T-shirt,18,Zara,510.15,0,0
+1,0,772.76,0,Smartphone,19,Dell,630.33,0,0
+0,1,61.49,0,Jeans,20,H&M,55.28,0,0
+1,0,495.06,0,Smartphone,21,Lenovo,417.77,0,0
+0,1,71.27,0,T-shirt,22,Levi's,50.74,0,0
+0,0,1262.63,1,Cooking Oil,23,Fortune,857.42,0,0
+0,0,1455.34,0,Refrigerator,24,Whirlpool,980.15,1,0
+0,1,1002.7,0,T-shirt,25,Levi's,739.28,0,0
+0,0,641.36,0,Sandals,26,Nike,520.64,0,1
+0,0,549.39,1,Cooking Oil,27,Saffola,384.37,0,0
+1,0,1042.27,0,Smartphone,28,Lenovo,767.44,0,0
+0,0,608.6,0,Sandals,29,Puma,509.02,0,1
+0,1,701.13,0,Jeans,30,H&M,625.8,0,0
+0,1,761.55,0,T-shirt,31,H&M,596.83,0,0
+0,1,1031.29,0,Jeans,32,Uniqlo,856.07,0,0
+0,0,1277.51,0,Sandals,33,Reebok,912.51,0,1
+1,0,1292.32,0,Laptop,34,Dell,953.8,0,0
+1,0,1327.42,0,Laptop,35,Dell,889.25,0,0
+1,0,711.3,0,Smartphone,36,Dell,621.52,0,0
+0,0,295.79,0,Refrigerator,37,Bosch,202.04,1,0
+0,0,910.4,0,Sneakers,38,Puma,670.24,0,1
+0,1,259.87,0,Jeans,39,Levi's,235.44,0,0
+0,0,680.83,0,Sandals,40,Adidas,529.91,0,1
+1,0,1175.38,0,Laptop,41,Dell,977.09,0,0
+0,0,781.07,0,Washing Machine,42,Whirlpool,588.16,1,0
+0,1,304.02,0,Jeans,43,H&M,234.41,0,0
+0,1,510.91,0,T-shirt,44,Uniqlo,451.15,0,0
+0,0,865.95,1,Rice,45,Fortune,705.92,0,0
+0,0,624.54,0,Sandals,46,Puma,567.59,0,1
+0,0,218.91,0,Washing Machine,47,Whirlpool,194.87,1,0
+0,0,56.09,1,Cooking Oil,48,Aashirvaad,49.25,0,0
+0,0,152.96,0,Sneakers,49,Adidas,123.83,0,1
+0,0,171.43,1,Rice,50,Aashirvaad,119.06,0,0
+0,0,812.26,1,Rice,51,Fortune,618.23,0,0
+0,0,722.35,0,Washing Machine,52,Samsung,496.77,1,0
+0,0,1068.88,0,Sneakers,53,Puma,871.26,0,1
+0,0,793.53,0,Sandals,54,Nike,696.23,0,1
+0,1,453.86,0,T-shirt,55,Levi's,321.48,0,0
+1,0,497.8,0,Smartphone,56,Lenovo,396.42,0,0
+1,0,74.37,0,Smartphone,57,Lenovo,52.51,0,0
+1,0,388.36,0,Smartphone,58,Samsung,295.05,0,0
+0,0,402.64,0,Refrigerator,59,Samsung,299.71,1,0
+0,0,1035.67,0,Sneakers,60,Nike,805.9,0,1
+0,0,22.35,1,Cooking Oil,61,Fortune,19.41,0,0
+0,0,340.85,0,Sneakers,62,Puma,272.98,0,1
+0,1,1231.46,0,T-shirt,63,Levi's,870.47,0,0
+0,0,126.02,0,Washing Machine,64,Samsung,104.63,1,0
+0,1,245.15,0,Jeans,65,H&M,194.03,0,0
+0,0,632.61,0,Sneakers,66,Adidas,535.13,0,1
+1,0,453.31,0,Laptop,67,Dell,411.19,0,0
+0,0,646.88,1,Cooking Oil,68,Saffola,518.11,0,0
+1,0,1207.64,0,Laptop,69,Lenovo,881.8,0,0
+1,0,1201.22,0,Smartphone,70,Apple,931.02,0,0
+0,1,399.29,0,T-shirt,71,Levi's,321.23,0,0
+0,0,1088.16,1,Cooking Oil,72,Fortune,859.22,0,0
+0,0,83.34,0,Washing Machine,73,Samsung,70.44,1,0
+0,1,1138.47,0,Jeans,74,Uniqlo,888.2,0,0
+0,0,1260.21,1,Cooking Oil,75,Saffola,991.93,0,0
+0,1,1210.65,0,T-shirt,76,Zara,893.95,0,0
+1,0,47.74,0,Smartphone,77,Dell,32.62,0,0
+1,0,1172.55,0,Laptop,78,Lenovo,795.22,0,0
+0,0,141.94,0,Sandals,79,Adidas,96.47,0,1
+0,1,58.3,0,Jeans,80,H&M,41.11,0,0
+1,0,1169.88,0,Smartphone,81,Apple,851.29,0,0
+0,0,234.67,0,Sandals,82,Nike,192.4,0,1
+0,0,1054.56,0,Sneakers,83,Reebok,924.28,0,1
+0,0,77.51,1,Rice,84,Tata,68.2,0,0
+0,1,252.74,0,T-shirt,85,Zara,197.53,0,0
+1,0,1202.66,0,Smartphone,86,Apple,884.13,0,0
+0,1,1171.55,0,Jeans,87,Zara,830.68,0,0
+0,0,1160.36,0,Refrigerator,88,Whirlpool,933.15,1,0
+0,1,1257.09,0,Jeans,89,Uniqlo,952.7,0,0
+0,0,1188.47,0,Sandals,90,Adidas,927.82,0,1
+1,0,916.03,0,Smartphone,91,Samsung,807.92,0,0
+0,1,428.53,0,T-shirt,92,Zara,355.0,0,0
+0,1,890.0,0,Jeans,93,Zara,746.7,0,0
+0,0,333.29,1,Rice,94,Saffola,224.67,0,0
+1,0,167.04,0,Laptop,95,Apple,143.67,0,0
+0,0,993.48,0,Sandals,96,Puma,847.52,0,1
+0,1,723.32,0,T-shirt,97,Levi's,569.49,0,0
+0,0,1037.41,0,Sneakers,98,Adidas,889.31,0,1
+1,0,628.93,0,Smartphone,99,Lenovo,421.6,0,0
+0,0,598.36,1,Cooking Oil,100,Tata,416.4,0,0
+0,0,586.76,0,Sandals,101,Puma,403.8,0,1
+0,0,245.07,1,Cooking Oil,102,Fortune,180.36,0,0
+0,0,459.95,0,Sandals,103,Nike,331.81,0,1
+0,1,694.11,0,Jeans,104,Zara,592.03,0,0
+0,1,280.14,0,Jeans,105,Zara,231.84,0,0
+0,0,1108.49,0,Washing Machine,106,Samsung,912.52,1,0
+0,0,103.66,1,Rice,107,Fortune,75.46,0,0
+1,0,1297.29,0,Smartphone,108,Dell,902.58,0,0
+0,0,892.15,0,Sandals,109,Nike,806.24,0,1
+0,0,605.64,1,Rice,110,Tata,424.94,0,0
+0,0,455.09,1,Rice,111,Fortune,313.2,0,0
+0,0,257.28,0,Sandals,112,Nike,231.11,0,1
+0,0,1003.91,1,Cooking Oil,113,Fortune,766.86,0,0
+1,0,210.4,0,Smartphone,114,Samsung,140.54,0,0
+0,0,1099.14,0,Sandals,115,Adidas,791.21,0,1
+0,0,506.43,0,Refrigerator,116,LG,439.41,1,0
+0,0,170.15,0,Washing Machine,117,Whirlpool,123.94,1,0
+1,0,792.94,0,Laptop,118,Lenovo,614.53,0,0
+0,0,897.61,1,Rice,119,Tata,792.77,0,0
+0,0,1235.81,1,Rice,120,Saffola,898.12,0,0
+0,0,39.26,1,Cooking Oil,121,Tata,34.28,0,0
+0,1,310.15,0,Jeans,122,Uniqlo,212.7,0,0
+1,0,1130.8,0,Laptop,123,Lenovo,836.32,0,0
+1,0,167.42,0,Laptop,124,Samsung,115.41,0,0
+0,0,399.67,0,Sneakers,125,Nike,284.68,0,1
+0,0,766.46,0,Washing Machine,126,Bosch,543.21,1,0
+0,0,257.24,0,Washing Machine,127,Whirlpool,193.06,1,0
+0,0,94.27,0,Sneakers,128,Nike,79.02,0,1
+1,0,920.2,0,Laptop,129,Lenovo,633.79,0,0
+0,1,514.77,0,Jeans,130,H&M,429.32,0,0
+0,1,1034.14,0,T-shirt,131,Uniqlo,803.32,0,0
+0,1,846.39,0,Jeans,132,Uniqlo,638.97,0,0
+1,0,669.2,0,Laptop,133,Lenovo,484.01,0,0
+0,0,490.47,0,Refrigerator,134,Samsung,422.92,1,0
+0,0,1154.69,1,Cooking Oil,135,Saffola,802.34,0,0
+1,0,742.72,0,Smartphone,136,Apple,610.58,0,0
+0,0,400.0,1,Rice,137,Saffola,362.54,0,0
+0,0,68.91,0,Sneakers,138,Reebok,55.66,0,1
+1,0,1022.61,0,Smartphone,139,Dell,697.97,0,0
+0,0,1133.88,1,Cooking Oil,140,Saffola,962.74,0,0
+0,0,969.56,0,Sneakers,141,Adidas,648.02,0,1
+0,1,83.56,0,T-shirt,142,Levi's,66.46,0,0
+0,1,122.28,0,T-shirt,143,Levi's,95.19,0,0
+0,0,878.38,1,Rice,144,Tata,758.18,0,0
+0,1,176.47,0,Jeans,145,Uniqlo,149.88,0,0
+0,0,603.27,0,Sandals,146,Reebok,443.99,0,1
+1,0,712.22,0,Smartphone,147,Samsung,622.63,0,0
+1,0,115.34,0,Smartphone,148,Samsung,82.14,0,0
+0,0,160.62,0,Sneakers,149,Nike,126.2,0,1
+1,0,1191.37,0,Laptop,150,Dell,999.91,0,0
+1,0,246.82,0,Smartphone,151,Apple,175.65,0,0
+0,0,439.91,0,Sandals,152,Adidas,387.44,0,1
+1,0,50.78,0,Smartphone,153,Apple,39.32,0,0
+1,0,54.09,0,Smartphone,154,Dell,36.72,0,0
+0,0,639.92,0,Sneakers,155,Adidas,561.93,0,1
+0,0,404.12,0,Sneakers,156,Reebok,321.49,0,1
+1,0,1132.55,0,Smartphone,157,Samsung,998.48,0,0
+0,0,1245.78,0,Refrigerator,158,Bosch,913.08,1,0
+0,0,1093.24,1,Rice,159,Saffola,893.38,0,0
+1,0,70.54,0,Laptop,160,Lenovo,62.42,0,0
+0,1,476.45,0,Jeans,161,H&M,333.83,0,0
+1,0,911.09,0,Smartphone,162,Lenovo,688.49,0,0
+0,0,1200.72,1,Cooking Oil,163,Tata,915.45,0,0
+1,0,264.04,0,Smartphone,164,Lenovo,209.14,0,0
+0,0,400.7,1,Rice,165,Tata,331.46,0,0
+1,0,1081.09,0,Laptop,166,Lenovo,933.22,0,0
+0,0,887.76,1,Rice,167,Aashirvaad,688.92,0,0
+0,1,1272.53,0,Jeans,168,Levi's,876.49,0,0
+0,0,1395.07,0,Sneakers,169,Puma,964.87,0,1
+0,1,132.4,0,Jeans,170,H&M,88.43,0,0
+0,0,333.1,0,Refrigerator,171,Whirlpool,247.5,1,0
+0,0,1023.72,1,Cooking Oil,172,Tata,919.93,0,0
+0,0,1428.85,0,Washing Machine,173,LG,990.52,1,0
+0,0,666.45,1,Rice,174,Aashirvaad,459.45,0,0
+0,1,471.07,0,Jeans,175,Levi's,369.09,0,0
+0,0,866.2,1,Cooking Oil,176,Saffola,641.66,0,0
+0,0,1134.44,1,Rice,177,Tata,864.01,0,0
+1,0,1043.13,0,Smartphone,178,Samsung,719.12,0,0
+0,0,894.43,1,Cooking Oil,179,Aashirvaad,659.94,0,0
+0,0,706.24,0,Sneakers,180,Reebok,527.77,0,1
+0,0,753.18,0,Sandals,181,Nike,529.24,0,1
+0,1,557.86,0,Jeans,182,H&M,457.93,0,0
+0,0,1084.22,0,Refrigerator,183,Bosch,871.49,1,0
+0,1,861.85,0,Jeans,184,Uniqlo,678.32,0,0
+0,1,663.63,0,Jeans,185,H&M,593.42,0,0
+0,0,963.21,0,Sneakers,186,Reebok,695.32,0,1
+0,0,489.85,1,Rice,187,Tata,345.92,0,0
+0,0,452.24,0,Sandals,188,Nike,405.71,0,1
+0,0,1329.72,0,Refrigerator,189,Samsung,946.61,1,0
+0,0,1082.97,1,Rice,190,Aashirvaad,815.62,0,0
+0,0,1157.38,0,Refrigerator,191,Bosch,796.42,1,0
+0,0,1018.52,1,Cooking Oil,192,Fortune,703.43,0,0
+0,1,707.57,0,T-shirt,193,Uniqlo,531.61,0,0
+0,0,665.76,1,Cooking Oil,194,Fortune,502.97,0,0
+1,0,823.44,0,Smartphone,195,Lenovo,696.98,0,0
+0,0,542.31,1,Rice,196,Fortune,364.47,0,0
+0,0,269.66,1,Cooking Oil,197,Fortune,239.17,0,0
+0,0,114.05,0,Washing Machine,198,Samsung,79.38,1,0
+1,0,875.28,0,Smartphone,199,Lenovo,709.63,0,0
+0,1,1147.56,0,T-shirt,200,Zara,782.51,0,0
+1,0,41.65,0,Smartphone,201,Dell,33.64,0,0
+0,0,913.9,0,Refrigerator,202,LG,646.77,1,0
+0,0,912.68,0,Washing Machine,203,Bosch,627.57,1,0
+0,1,969.58,0,Jeans,204,Uniqlo,703.29,0,0
+0,1,554.68,0,Jeans,205,Levi's,422.7,0,0
+0,0,385.94,0,Washing Machine,206,Samsung,309.29,1,0
+1,0,363.98,0,Smartphone,207,Dell,258.76,0,0
+1,0,927.81,0,Laptop,208,Lenovo,739.65,0,0
+0,0,617.53,0,Refrigerator,209,Whirlpool,411.81,1,0
+0,1,493.04,0,Jeans,210,Uniqlo,407.68,0,0
+0,1,1329.48,0,Jeans,211,Levi's,904.16,0,0
+0,1,571.05,0,Jeans,212,H&M,445.54,0,0
+0,0,154.55,1,Cooking Oil,213,Tata,118.77,0,0
+0,0,229.68,0,Washing Machine,214,Samsung,189.74,1,0
+1,0,939.95,0,Smartphone,215,Lenovo,806.83,0,0
+0,0,757.17,0,Sandals,216,Adidas,649.87,0,1
+0,0,80.91,0,Washing Machine,217,Whirlpool,63.23,1,0
+0,0,874.69,0,Sneakers,218,Adidas,725.9,0,1
+0,0,363.97,0,Refrigerator,219,LG,286.94,1,0
+0,0,724.93,0,Sandals,220,Nike,560.56,0,1
+0,0,277.93,1,Cooking Oil,221,Aashirvaad,206.3,0,0
+0,0,716.47,0,Refrigerator,222,Samsung,612.33,1,0
+0,0,820.77,0,Washing Machine,223,Whirlpool,656.28,1,0
+0,0,55.14,0,Washing Machine,224,Whirlpool,49.77,1,0
+0,0,403.32,0,Sneakers,225,Puma,349.22,0,1
+0,0,1208.6,1,Cooking Oil,226,Saffola,848.75,0,0
+0,1,1151.68,0,Jeans,227,Zara,976.25,0,0
+0,0,615.71,0,Sandals,228,Puma,465.04,0,1
+0,1,1084.93,0,Jeans,229,Zara,883.19,0,0
+1,0,534.28,0,Smartphone,230,Lenovo,406.98,0,0
+1,0,589.19,0,Laptop,231,Apple,505.82,0,0
+0,0,717.49,0,Refrigerator,232,LG,573.28,1,0
+1,0,877.78,0,Laptop,233,Samsung,692.06,0,0
+0,0,845.25,0,Sneakers,234,Nike,624.48,0,1
+0,1,593.79,0,Jeans,235,Zara,445.84,0,0
+0,0,831.38,0,Washing Machine,236,Samsung,602.29,1,0
+0,0,127.24,0,Washing Machine,237,LG,95.52,1,0
+0,1,868.66,0,T-shirt,238,Levi's,639.87,0,0
+0,0,316.95,1,Cooking Oil,239,Tata,272.07,0,0
+1,0,510.55,0,Laptop,240,Dell,450.19,0,0
+0,1,1347.12,0,Jeans,241,Uniqlo,935.08,0,0
+0,0,705.46,1,Rice,242,Tata,558.85,0,0
+0,0,805.86,1,Rice,243,Fortune,548.06,0,0
+0,0,717.42,0,Refrigerator,244,Samsung,515.89,1,0
+0,0,498.42,1,Rice,245,Aashirvaad,405.74,0,0
+0,0,1030.95,1,Rice,246,Tata,721.29,0,0
+0,0,154.33,0,Sandals,247,Nike,122.08,0,1
+0,1,677.33,0,T-shirt,248,Levi's,473.35,0,0
+0,0,260.44,1,Cooking Oil,249,Fortune,204.64,0,0
+0,0,967.23,0,Washing Machine,250,Whirlpool,753.51,1,0
+0,1,788.19,0,T-shirt,251,Zara,608.68,0,0
+0,0,997.38,0,Refrigerator,252,Samsung,698.14,1,0
+0,0,587.81,0,Sandals,253,Puma,508.13,0,1
+0,0,920.88,1,Rice,254,Tata,805.57,0,0
+0,1,315.57,0,Jeans,255,H&M,217.73,0,0
+0,0,576.92,0,Sandals,256,Adidas,459.46,0,1
+0,0,308.89,0,Refrigerator,257,Bosch,221.58,1,0
+0,0,116.45,1,Rice,258,Fortune,93.0,0,0
+1,0,342.02,0,Laptop,259,Apple,310.82,0,0
+0,0,901.38,1,Rice,260,Fortune,784.6,0,0
+1,0,679.47,0,Smartphone,261,Apple,599.97,0,0
+0,0,553.45,1,Rice,262,Tata,431.21,0,0
+1,0,1143.45,0,Laptop,263,Apple,946.37,0,0
+1,0,920.36,0,Smartphone,264,Samsung,728.4,0,0
+0,0,154.74,0,Sneakers,265,Reebok,110.59,0,1
+0,0,236.93,0,Refrigerator,266,Samsung,169.49,1,0
+0,0,601.03,0,Sandals,267,Reebok,508.69,0,1
+0,1,1283.99,0,Jeans,268,Uniqlo,880.4,0,0
+0,1,673.59,0,Jeans,269,Zara,551.13,0,0
+0,0,1054.88,1,Rice,270,Tata,732.3,0,0
+0,0,999.63,0,Washing Machine,271,Bosch,749.48,1,0
+1,0,1187.19,0,Smartphone,272,Samsung,792.07,0,0
+0,0,320.26,0,Sneakers,273,Adidas,245.87,0,1
+0,1,1190.31,0,Jeans,274,Uniqlo,795.24,0,0
+0,0,82.73,1,Rice,275,Tata,63.26,0,0
+1,0,758.03,0,Smartphone,276,Lenovo,661.52,0,0
+0,0,393.66,0,Washing Machine,277,Whirlpool,299.6,1,0
+0,1,586.11,0,T-shirt,278,Zara,502.58,0,0
+0,0,1067.4,0,Washing Machine,279,Whirlpool,962.47,1,0
+0,0,748.69,1,Cooking Oil,280,Tata,671.22,0,0
+0,0,405.07,0,Washing Machine,281,Bosch,309.68,1,0
+0,0,18.17,1,Rice,282,Fortune,12.6,0,0
+0,0,1126.66,0,Washing Machine,283,Whirlpool,838.25,1,0
+0,0,419.29,1,Rice,284,Saffola,281.94,0,0
+1,0,1324.27,0,Smartphone,285,Dell,990.19,0,0
+0,1,1357.21,0,T-shirt,286,Levi's,959.3,0,0
+0,1,743.47,0,Jeans,287,Levi's,539.72,0,0
+0,0,126.14,1,Rice,288,Tata,113.47,0,0
+1,0,51.56,0,Laptop,289,Samsung,36.1,0,0
+1,0,70.85,0,Smartphone,290,Dell,61.73,0,0
+0,1,472.19,0,T-shirt,291,H&M,317.76,0,0
+0,0,139.65,1,Rice,292,Saffola,106.46,0,0
+0,0,1135.73,0,Refrigerator,293,LG,805.08,1,0
+0,0,888.46,0,Refrigerator,294,Samsung,757.1,1,0
+1,0,1326.66,0,Laptop,295,Apple,918.27,0,0
+0,0,543.7,1,Cooking Oil,296,Saffola,396.93,0,0
+1,0,1157.69,0,Smartphone,297,Dell,952.96,0,0
+0,0,886.47,1,Rice,298,Tata,650.34,0,0
+0,0,328.32,0,Washing Machine,299,Samsung,263.25,1,0
+0,1,458.29,0,T-shirt,300,Zara,376.64,0,0
+1,0,254.73,0,Laptop,301,Apple,227.75,0,0
+0,1,418.08,0,Jeans,302,H&M,364.33,0,0
+0,0,903.0,0,Washing Machine,303,Bosch,746.27,1,0
+0,0,1217.82,1,Cooking Oil,304,Tata,846.52,0,0
+0,0,559.77,0,Sneakers,305,Puma,385.92,0,1
+0,0,243.45,1,Rice,306,Aashirvaad,200.13,0,0
+0,0,467.04,0,Sneakers,307,Puma,412.37,0,1
+0,0,868.49,0,Refrigerator,308,Samsung,732.35,1,0
+0,0,389.29,1,Cooking Oil,309,Fortune,271.6,0,0
+0,1,812.56,0,T-shirt,310,H&M,620.5,0,0
+0,0,1336.15,0,Sandals,311,Adidas,920.39,0,1
+1,0,674.01,0,Laptop,312,Dell,495.05,0,0
+0,0,506.94,0,Sneakers,313,Adidas,371.65,0,1
+0,1,991.52,0,T-shirt,314,Zara,790.99,0,0
+0,0,163.29,0,Washing Machine,315,Whirlpool,131.79,1,0
+0,0,1152.05,0,Sandals,316,Adidas,881.35,0,1
+0,0,990.01,0,Sneakers,317,Nike,859.75,0,1
+0,0,1084.8,0,Refrigerator,318,Whirlpool,789.83,1,0
+0,0,491.85,0,Sandals,319,Nike,429.28,0,1
+0,1,705.61,0,T-shirt,320,Zara,539.87,0,0
+0,0,563.59,0,Sandals,321,Nike,508.47,0,1
+0,1,618.52,0,Jeans,322,H&M,503.18,0,0
+0,0,375.22,0,Sneakers,323,Adidas,273.85,0,1
+0,0,1070.03,1,Cooking Oil,324,Tata,865.29,0,0
+0,1,832.54,0,T-shirt,325,H&M,700.22,0,0
+0,1,584.52,0,T-shirt,326,H&M,411.49,0,0
+1,0,1255.03,0,Smartphone,327,Samsung,883.96,0,0
+0,0,539.52,0,Washing Machine,328,Whirlpool,461.96,1,0
+0,0,826.75,1,Cooking Oil,329,Saffola,644.21,0,0
+0,1,925.34,0,T-shirt,330,H&M,660.16,0,0
+1,0,967.11,0,Smartphone,331,Apple,778.33,0,0
+0,0,768.16,0,Sandals,332,Adidas,666.35,0,1
+0,0,1092.66,0,Sandals,333,Reebok,737.31,0,1
+0,0,1046.1,0,Washing Machine,334,LG,794.48,1,0
+0,0,703.14,1,Rice,335,Tata,638.16,0,0
+0,0,155.9,1,Rice,336,Fortune,106.51,0,0
+0,1,265.15,0,Jeans,337,Uniqlo,181.78,0,0
+0,0,670.13,0,Washing Machine,338,Samsung,604.63,1,0
+0,0,538.06,1,Rice,339,Fortune,471.32,0,0
+0,0,582.2,0,Refrigerator,340,LG,432.48,1,0
+0,0,366.88,0,Washing Machine,341,Samsung,302.65,1,0
+0,1,529.09,0,T-shirt,342,H&M,358.79,0,0
+0,0,1098.9,0,Sneakers,343,Adidas,762.33,0,1
+1,0,927.22,0,Smartphone,344,Apple,751.6,0,0
+0,0,585.26,0,Refrigerator,345,Bosch,460.75,1,0
+0,1,956.67,0,Jeans,346,Zara,659.45,0,0
+0,0,997.79,1,Rice,347,Tata,773.41,0,0
+1,0,972.48,0,Smartphone,348,Dell,830.01,0,0
+1,0,917.59,0,Laptop,349,Lenovo,761.82,0,0
+1,0,889.84,0,Laptop,350,Apple,771.19,0,0
+0,0,964.71,0,Washing Machine,351,Whirlpool,731.3,1,0
+0,1,1111.12,0,T-shirt,352,H&M,917.6,0,0
+0,1,429.91,0,T-shirt,353,H&M,325.73,0,0
+0,0,886.47,1,Cooking Oil,354,Saffola,775.08,0,0
+0,1,1100.81,0,Jeans,355,H&M,988.14,0,0
+0,1,543.31,0,Jeans,356,H&M,452.8,0,0
+0,0,103.14,0,Washing Machine,357,Bosch,75.32,1,0
+0,0,305.27,0,Sneakers,358,Adidas,253.41,0,1
+1,0,137.74,0,Smartphone,359,Apple,92.11,0,0
+0,0,712.18,0,Washing Machine,360,LG,514.91,1,0
+0,0,1038.88,0,Sandals,361,Nike,802.17,0,1
+0,1,288.59,0,Jeans,362,H&M,232.03,0,0
+1,0,1322.13,0,Laptop,363,Apple,885.38,0,0
+0,1,96.39,0,T-shirt,364,Levi's,71.59,0,0
+0,0,124.49,0,Sandals,365,Reebok,84.4,0,1
+0,0,211.87,1,Rice,366,Aashirvaad,150.66,0,0
+1,0,824.04,0,Laptop,367,Lenovo,594.59,0,0
+0,1,1299.83,0,T-shirt,368,Zara,912.65,0,0
+0,0,771.8,0,Refrigerator,369,Samsung,664.88,1,0
+0,0,36.81,0,Sneakers,370,Reebok,31.29,0,1
+0,0,73.08,0,Washing Machine,371,Whirlpool,63.48,1,0
+1,0,507.51,0,Laptop,372,Samsung,416.81,0,0
+0,0,744.86,0,Washing Machine,373,LG,672.2,1,0
+1,0,143.07,0,Laptop,374,Samsung,105.44,0,0
+0,1,1065.86,0,Jeans,375,Levi's,752.06,0,0
+1,0,33.12,0,Laptop,376,Dell,24.83,0,0
+0,0,1024.81,0,Sneakers,377,Reebok,792.3,0,1
+0,1,1211.81,0,T-shirt,378,Levi's,861.02,0,0
+0,0,1087.21,0,Sneakers,379,Puma,782.95,0,1
+0,0,343.77,0,Sandals,380,Reebok,235.04,0,1
+0,0,770.99,1,Cooking Oil,381,Fortune,549.32,0,0
+0,0,134.25,1,Cooking Oil,382,Saffola,107.31,0,0
+0,1,195.67,0,Jeans,383,Uniqlo,132.21,0,0
+0,0,785.06,0,Sandals,384,Adidas,585.61,0,1
+0,0,435.24,1,Cooking Oil,385,Aashirvaad,312.19,0,0
+0,1,772.84,0,T-shirt,386,Uniqlo,545.03,0,0
+0,0,586.87,0,Sneakers,387,Adidas,404.88,0,1
+0,0,248.67,0,Sneakers,388,Puma,219.4,0,1
+0,1,502.38,0,Jeans,389,H&M,419.7,0,0
+1,0,148.89,0,Smartphone,390,Dell,130.96,0,0
+1,0,906.95,0,Smartphone,391,Dell,733.41,0,0
+0,1,375.22,0,T-shirt,392,Levi's,329.34,0,0
+0,1,247.98,0,Jeans,393,Zara,188.27,0,0
+0,0,998.56,0,Refrigerator,394,Samsung,675.59,1,0
+0,0,898.56,1,Cooking Oil,395,Aashirvaad,685.25,0,0
+1,0,1070.34,0,Laptop,396,Dell,723.23,0,0
+0,1,384.1,0,T-shirt,397,Levi's,265.28,0,0
+0,0,984.02,0,Refrigerator,398,Samsung,813.99,1,0
+0,0,17.3,1,Cooking Oil,399,Saffola,14.03,0,0
+0,0,312.43,0,Refrigerator,400,Samsung,218.17,1,0
+0,0,190.71,1,Rice,401,Saffola,129.35,0,0
+0,1,841.77,0,Jeans,402,Levi's,711.34,0,0
+0,0,1228.98,0,Sneakers,403,Puma,920.41,0,1
+0,1,1016.51,0,T-shirt,404,Levi's,900.21,0,0
+0,0,47.24,0,Refrigerator,405,Whirlpool,42.07,1,0
+1,0,109.84,0,Laptop,406,Dell,84.13,0,0
+0,0,756.83,0,Sneakers,407,Adidas,513.58,0,1
+0,0,719.77,0,Sandals,408,Nike,589.76,0,1
+0,0,1219.43,0,Washing Machine,409,Bosch,904.9,1,0
+0,0,836.99,0,Sneakers,410,Puma,728.41,0,1
+0,1,276.89,0,Jeans,411,Uniqlo,236.86,0,0
+0,0,50.78,1,Cooking Oil,412,Tata,36.72,0,0
+0,0,60.66,0,Sneakers,413,Nike,49.09,0,1
+0,0,446.99,0,Washing Machine,414,Samsung,346.79,1,0
+0,0,297.24,0,Sneakers,415,Reebok,205.66,0,1
+0,0,720.93,1,Rice,416,Tata,653.05,0,0
+0,1,462.13,0,T-shirt,417,Zara,362.01,0,0
+0,0,1122.23,0,Sandals,418,Puma,987.01,0,1
+1,0,526.53,0,Smartphone,419,Apple,359.74,0,0
+0,0,72.29,0,Refrigerator,420,LG,58.42,1,0
+0,0,1080.72,0,Sneakers,421,Reebok,851.67,0,1
+0,0,791.42,0,Sneakers,422,Puma,626.3,0,1
+0,0,333.38,1,Cooking Oil,423,Aashirvaad,267.82,0,0
+0,0,430.87,1,Rice,424,Aashirvaad,388.95,0,0
+0,0,251.53,0,Sandals,425,Adidas,191.86,0,1
+0,0,815.57,1,Cooking Oil,426,Aashirvaad,550.27,0,0
+0,0,781.4,1,Rice,427,Saffola,554.79,0,0
+1,0,1199.6,0,Laptop,428,Apple,889.82,0,0
+0,1,119.99,0,Jeans,429,Zara,101.06,0,0
+0,0,61.46,0,Refrigerator,430,Samsung,43.55,1,0
+0,1,218.19,0,T-shirt,431,Levi's,164.2,0,0
+0,0,837.38,0,Sandals,432,Adidas,721.6,0,1
+0,0,138.15,0,Washing Machine,433,LG,119.57,1,0
+0,0,833.76,1,Cooking Oil,434,Fortune,646.08,0,0
+0,0,1014.56,0,Sneakers,435,Reebok,738.86,0,1
+0,0,365.38,1,Rice,436,Fortune,266.09,0,0
+1,0,345.9,0,Smartphone,437,Dell,241.17,0,0
+0,0,578.96,0,Washing Machine,438,Samsung,484.77,1,0
+0,0,579.05,0,Sneakers,439,Puma,512.29,0,1
+0,0,870.84,0,Refrigerator,440,Bosch,682.12,1,0
+0,1,361.04,0,Jeans,441,H&M,305.52,0,0
+0,0,1250.7,0,Washing Machine,442,Bosch,985.96,1,0
+1,0,823.93,0,Laptop,443,Apple,594.02,0,0
+0,0,274.62,0,Refrigerator,444,Whirlpool,222.26,1,0
+1,0,962.62,0,Laptop,445,Lenovo,786.23,0,0
+1,0,213.22,0,Smartphone,446,Lenovo,192.61,0,0
+0,0,660.33,1,Cooking Oil,447,Aashirvaad,579.07,0,0
+0,1,715.6,0,Jeans,448,H&M,543.14,0,0
+0,0,530.43,0,Sandals,449,Nike,451.29,0,1
+0,0,267.36,0,Washing Machine,450,Bosch,186.71,1,0
+0,0,314.34,0,Refrigerator,451,Whirlpool,243.34,1,0
+0,1,1065.8,0,T-shirt,452,H&M,892.21,0,0
+1,0,1131.67,0,Laptop,453,Dell,914.22,0,0
+0,0,1144.67,0,Sandals,454,Reebok,773.65,0,1
+0,0,869.99,0,Refrigerator,455,Samsung,773.92,1,0
+0,0,48.37,0,Washing Machine,456,LG,37.68,1,0
+1,0,33.87,0,Smartphone,457,Apple,27.88,0,0
+0,0,96.76,0,Refrigerator,458,Whirlpool,67.16,1,0
+0,0,850.98,0,Refrigerator,459,Samsung,716.57,1,0
+0,0,624.71,0,Sneakers,460,Nike,528.85,0,1
+1,0,698.19,0,Smartphone,461,Apple,523.13,0,0
+0,0,635.8,0,Sneakers,462,Reebok,534.43,0,1
+1,0,351.66,0,Laptop,463,Apple,271.17,0,0
+0,0,791.82,0,Sneakers,464,Nike,703.64,0,1
+1,0,911.64,0,Laptop,465,Apple,825.19,0,0
+0,1,925.78,0,T-shirt,466,Zara,690.92,0,0
+0,0,1331.74,1,Cooking Oil,467,Saffola,995.77,0,0
+1,0,361.73,0,Laptop,468,Samsung,264.85,0,0
+0,0,517.02,1,Rice,469,Aashirvaad,452.26,0,0
+1,0,175.39,0,Smartphone,470,Apple,148.03,0,0
+1,0,803.72,0,Laptop,471,Samsung,572.87,0,0
+0,0,85.82,0,Sneakers,472,Puma,74.68,0,1
+0,0,107.45,1,Cooking Oil,473,Tata,83.28,0,0
+1,0,644.29,0,Smartphone,474,Dell,575.27,0,0
+0,0,323.56,0,Washing Machine,475,Bosch,232.47,1,0
+0,0,770.33,0,Refrigerator,476,Samsung,609.97,1,0
+0,0,50.8,1,Rice,477,Saffola,34.34,0,0
+0,0,949.38,0,Washing Machine,478,LG,677.54,1,0
+0,0,245.83,1,Rice,479,Aashirvaad,219.08,0,0
+0,0,622.25,1,Rice,480,Fortune,501.74,0,0
+1,0,310.56,0,Laptop,481,Dell,227.97,0,0
+1,0,966.44,0,Laptop,482,Lenovo,736.42,0,0
+1,0,544.77,0,Smartphone,483,Samsung,364.0,0,0
+0,0,55.46,1,Cooking Oil,484,Fortune,48.38,0,0
+0,1,108.41,0,T-shirt,485,Zara,76.26,0,0
+0,0,851.12,1,Cooking Oil,486,Aashirvaad,645.7,0,0
+1,0,267.04,0,Smartphone,487,Samsung,211.7,0,0
+0,0,900.42,0,Refrigerator,488,Whirlpool,666.18,1,0
+0,0,361.3,0,Sneakers,489,Reebok,288.27,0,1
+1,0,563.01,0,Laptop,490,Apple,422.82,0,0
+1,0,879.54,0,Laptop,491,Samsung,645.96,0,0
+0,1,547.49,0,Jeans,492,H&M,374.19,0,0
+0,0,360.17,1,Cooking Oil,493,Saffola,248.21,0,0
+0,0,1002.09,0,Washing Machine,494,Whirlpool,867.4,1,0
+1,0,944.47,0,Laptop,495,Samsung,739.52,0,0
+0,0,85.78,0,Washing Machine,496,LG,75.81,1,0
+0,0,1173.85,0,Washing Machine,497,Bosch,817.03,1,0
+0,0,1099.79,1,Cooking Oil,498,Saffola,973.58,0,0
+0,0,1260.58,0,Refrigerator,499,Samsung,919.25,1,0
+1,0,444.34,0,Laptop,500,Dell,334.83,0,0
+1,0,1149.62,0,Laptop,501,Apple,797.82,0,0
+1,0,971.75,0,Laptop,502,Apple,669.58,0,0
+0,0,424.75,0,Washing Machine,503,Whirlpool,316.55,1,0
+0,1,168.73,0,T-shirt,504,H&M,116.23,0,0
+0,0,700.26,0,Washing Machine,505,Whirlpool,494.56,1,0
+0,1,1168.33,0,Jeans,506,Zara,856.78,0,0
+0,0,1070.78,1,Cooking Oil,507,Fortune,846.15,0,0
+0,1,1143.14,0,T-shirt,508,Uniqlo,937.47,0,0
+0,1,490.0,0,T-shirt,509,H&M,329.56,0,0
+1,0,1404.21,0,Smartphone,510,Lenovo,975.75,0,0
+0,1,1046.4,0,T-shirt,511,Levi's,839.89,0,0
+1,0,959.36,0,Smartphone,512,Apple,689.23,0,0
+1,0,107.14,0,Laptop,513,Apple,72.0,0,0
+0,1,709.18,0,Jeans,514,Levi's,483.75,0,0
+0,1,882.63,0,Jeans,515,Levi's,614.3,0,0
+0,0,39.29,1,Rice,516,Saffola,35.67,0,0
+0,1,202.97,0,T-shirt,517,Levi's,158.46,0,0
+0,1,845.4,0,Jeans,518,H&M,634.61,0,0
+0,1,619.46,0,T-shirt,519,H&M,453.01,0,0
+0,0,1033.74,0,Sandals,520,Nike,691.17,0,1
+0,0,631.1,0,Sneakers,521,Reebok,559.54,0,1
+0,0,464.13,1,Rice,522,Tata,412.87,0,0
+0,0,431.2,1,Cooking Oil,523,Saffola,292.07,0,0
+0,1,110.15,0,T-shirt,524,Zara,85.68,0,0
+0,1,18.3,0,T-shirt,525,Uniqlo,14.54,0,0
+0,0,186.84,0,Washing Machine,526,Bosch,136.39,1,0
+0,1,549.25,0,Jeans,527,Levi's,479.0,0,0
+1,0,476.93,0,Laptop,528,Samsung,416.47,0,0
+0,0,1262.72,0,Refrigerator,529,Whirlpool,893.45,1,0
+0,0,40.89,0,Sandals,530,Puma,34.29,0,1
+1,0,925.04,0,Smartphone,531,Dell,712.35,0,0
+0,1,730.04,0,T-shirt,532,Uniqlo,562.58,0,0
+0,0,558.32,0,Sandals,533,Reebok,462.95,0,1
+0,0,822.91,1,Rice,534,Aashirvaad,712.52,0,0
+1,0,62.07,0,Laptop,535,Apple,56.29,0,0
+0,0,467.08,1,Cooking Oil,536,Saffola,408.37,0,0
+1,0,504.94,0,Smartphone,537,Dell,418.35,0,0
+1,0,1099.7,0,Smartphone,538,Lenovo,823.63,0,0
+0,1,578.17,0,T-shirt,539,Levi's,487.52,0,0
+0,0,1229.48,1,Rice,540,Tata,922.41,0,0
+0,0,85.05,0,Refrigerator,541,Whirlpool,70.26,1,0
+1,0,455.76,0,Laptop,542,Apple,314.99,0,0
+0,1,692.15,0,Jeans,543,H&M,527.62,0,0
+1,0,596.13,0,Smartphone,544,Dell,539.44,0,0
+0,1,36.96,0,Jeans,545,Uniqlo,30.16,0,0
+0,0,364.67,0,Sneakers,546,Reebok,264.41,0,1
+0,1,1004.36,0,T-shirt,547,Zara,814.86,0,0
+0,0,789.45,0,Washing Machine,548,Bosch,690.34,1,0
+0,1,1147.28,0,T-shirt,549,Uniqlo,934.86,0,0
+0,0,643.11,0,Refrigerator,550,Bosch,503.53,1,0
+0,0,589.99,0,Refrigerator,551,Bosch,474.75,1,0
+0,0,1324.23,0,Washing Machine,552,Bosch,972.65,1,0
+0,0,471.04,0,Washing Machine,553,LG,411.67,1,0
+0,1,1019.35,0,Jeans,554,Uniqlo,689.88,0,0
+0,0,488.76,0,Sneakers,555,Puma,407.25,0,1
+0,0,1014.18,1,Rice,556,Saffola,766.32,0,0
+1,0,196.16,0,Laptop,557,Samsung,177.76,0,0
+0,0,1088.42,0,Washing Machine,558,Whirlpool,940.41,1,0
+0,0,135.23,1,Rice,559,Fortune,98.0,0,0
+0,0,1308.84,0,Refrigerator,560,Bosch,909.08,1,0
+0,1,816.68,0,Jeans,561,H&M,624.82,0,0
+0,0,1207.66,1,Rice,562,Tata,905.06,0,0
+1,0,893.92,0,Laptop,563,Apple,616.34,0,0
+0,0,114.96,0,Washing Machine,564,Bosch,85.41,1,0
+0,0,681.62,0,Sandals,565,Puma,472.72,0,1
+0,1,307.59,0,T-shirt,566,Levi's,217.6,0,0
+1,0,580.83,0,Smartphone,567,Dell,431.03,0,0
+0,0,728.87,0,Sneakers,568,Reebok,577.63,0,1
+0,0,198.79,0,Sneakers,569,Nike,172.72,0,1
+0,0,893.57,1,Rice,570,Aashirvaad,669.34,0,0
+0,0,760.02,0,Refrigerator,571,LG,664.26,1,0
+1,0,552.6,0,Laptop,572,Samsung,474.53,0,0
+0,0,813.1,1,Rice,573,Aashirvaad,610.2,0,0
+0,0,472.0,1,Cooking Oil,574,Aashirvaad,391.98,0,0
+0,0,1270.85,0,Washing Machine,575,LG,992.09,1,0
+0,1,1137.65,0,Jeans,576,Zara,890.09,0,0
+0,1,261.1,0,Jeans,577,Levi's,175.85,0,0
+0,0,107.17,1,Cooking Oil,578,Aashirvaad,72.47,0,0
+0,0,707.05,0,Sneakers,579,Reebok,606.66,0,1
+0,0,1002.69,0,Sneakers,580,Adidas,814.35,0,1
+0,0,748.62,0,Refrigerator,581,LG,499.59,1,0
+1,0,427.03,0,Laptop,582,Lenovo,323.99,0,0
+0,0,302.13,1,Cooking Oil,583,Saffola,213.69,0,0
+0,0,876.49,0,Washing Machine,584,Samsung,639.07,1,0
+0,0,984.51,1,Cooking Oil,585,Tata,870.2,0,0
+0,1,213.18,0,Jeans,586,Zara,158.71,0,0
+0,0,1178.14,0,Sneakers,587,Adidas,827.48,0,1
+0,0,1328.56,0,Washing Machine,588,Whirlpool,895.37,1,0
+0,1,694.52,0,Jeans,589,Levi's,554.72,0,0
+0,0,22.04,0,Sandals,590,Nike,16.35,0,1
+0,0,429.46,0,Washing Machine,591,Samsung,305.98,1,0
+0,1,484.74,0,Jeans,592,Uniqlo,387.27,0,0
+0,0,569.14,1,Cooking Oil,593,Aashirvaad,512.83,0,0
+0,0,777.35,1,Cooking Oil,594,Fortune,668.98,0,0
+0,1,1046.53,0,T-shirt,595,H&M,731.18,0,0
+0,0,972.14,0,Sneakers,596,Reebok,666.76,0,1
+0,0,889.48,1,Rice,597,Fortune,689.66,0,0
+0,1,1370.25,0,Jeans,598,Zara,922.47,0,0
+0,0,1083.71,1,Cooking Oil,599,Aashirvaad,752.1,0,0
+0,0,1016.3,0,Refrigerator,600,Whirlpool,853.99,1,0
+0,0,941.13,0,Washing Machine,601,Whirlpool,773.2,1,0
+0,0,793.68,1,Rice,602,Fortune,675.7,0,0
+0,0,463.92,0,Sandals,603,Adidas,351.39,0,1
+0,1,166.47,0,T-shirt,604,Zara,128.11,0,0
+1,0,365.9,0,Smartphone,605,Apple,290.29,0,0
+0,1,217.34,0,Jeans,606,Levi's,185.3,0,0
+0,1,44.68,0,T-shirt,607,Zara,31.94,0,0
+0,0,749.07,1,Rice,608,Tata,574.38,0,0
+0,0,649.44,0,Washing Machine,609,LG,570.19,1,0
+0,0,359.55,0,Washing Machine,610,Bosch,280.95,1,0
+0,1,1288.27,0,T-shirt,611,H&M,995.16,0,0
+0,0,44.0,0,Sandals,612,Puma,36.66,0,1
+1,0,392.63,0,Smartphone,613,Dell,356.43,0,0
+0,0,1110.21,1,Rice,614,Aashirvaad,795.03,0,0
+0,0,1220.83,0,Sandals,615,Reebok,989.01,0,1
+1,0,708.37,0,Smartphone,616,Apple,643.56,0,0
+0,0,466.32,0,Refrigerator,617,LG,345.49,1,0
+0,0,950.54,1,Rice,618,Saffola,686.63,0,0
+1,0,293.17,0,Laptop,619,Dell,244.89,0,0
+1,0,715.14,0,Laptop,620,Lenovo,542.07,0,0
+0,1,543.15,0,T-shirt,621,Levi's,487.59,0,0
+1,0,1138.29,0,Smartphone,622,Dell,875.22,0,0
+0,0,278.65,0,Refrigerator,623,Samsung,208.58,1,0
+0,0,195.33,0,Sandals,624,Adidas,174.76,0,1
+0,0,614.84,1,Rice,625,Tata,528.22,0,0
+0,0,1382.88,1,Cooking Oil,626,Tata,977.92,0,0
+0,1,828.56,0,Jeans,627,Zara,664.71,0,0
+0,0,1078.33,1,Rice,628,Saffola,811.43,0,0
+0,0,727.78,1,Rice,629,Saffola,610.42,0,0
+0,1,839.64,0,T-shirt,630,Uniqlo,762.76,0,0
+0,0,581.12,0,Refrigerator,631,LG,434.07,1,0
+0,0,120.8,1,Rice,632,Aashirvaad,93.74,0,0
+0,0,261.53,0,Refrigerator,633,LG,233.51,1,0
+0,0,72.38,0,Washing Machine,634,Bosch,59.86,1,0
+1,0,415.82,0,Smartphone,635,Apple,367.43,0,0
+0,0,304.68,0,Refrigerator,636,LG,216.01,1,0
+0,0,53.24,0,Sneakers,637,Reebok,38.8,0,1
+0,0,479.7,1,Cooking Oil,638,Aashirvaad,398.78,0,0
+0,1,1357.63,0,T-shirt,639,Levi's,926.84,0,0
+0,0,1282.11,0,Sneakers,640,Reebok,905.01,0,1
+0,0,361.76,1,Rice,641,Tata,257.28,0,0
+1,0,50.46,0,Laptop,642,Lenovo,42.02,0,0
+0,1,120.17,0,Jeans,643,Zara,106.25,0,0
+0,0,692.04,1,Rice,644,Aashirvaad,580.15,0,0
+1,0,830.54,0,Smartphone,645,Dell,632.33,0,0
+1,0,540.21,0,Smartphone,646,Lenovo,410.92,0,0
+0,1,1023.69,0,T-shirt,647,Levi's,818.05,0,0
+0,0,182.92,1,Cooking Oil,648,Tata,161.96,0,0
+0,0,1037.83,0,Sneakers,649,Reebok,699.88,0,1
+0,1,399.39,0,Jeans,650,Levi's,327.7,0,0
+0,0,302.06,1,Cooking Oil,651,Fortune,246.49,0,0
+1,0,197.45,0,Smartphone,652,Apple,166.35,0,0
+1,0,1267.43,0,Laptop,653,Apple,852.01,0,0
+1,0,476.16,0,Laptop,654,Dell,416.58,0,0
+1,0,248.85,0,Laptop,655,Dell,203.06,0,0
+1,0,31.84,0,Smartphone,656,Dell,24.97,0,0
+1,0,85.99,0,Laptop,657,Dell,60.16,0,0
+0,0,62.8,0,Refrigerator,658,Whirlpool,51.73,1,0
+1,0,260.38,0,Smartphone,659,Apple,215.46,0,0
+0,0,431.36,0,Refrigerator,660,Bosch,370.94,1,0
+1,0,305.88,0,Laptop,661,Apple,257.18,0,0
+0,0,941.81,1,Cooking Oil,662,Aashirvaad,798.96,0,0
+1,0,563.35,0,Smartphone,663,Lenovo,444.64,0,0
+0,0,361.57,0,Refrigerator,664,Whirlpool,302.18,1,0
+0,0,370.04,0,Sandals,665,Adidas,305.33,0,1
+1,0,518.32,0,Laptop,666,Samsung,415.87,0,0
+0,0,407.57,1,Cooking Oil,667,Aashirvaad,287.51,0,0
+0,1,1316.08,0,T-shirt,668,Zara,938.49,0,0
+0,0,1350.84,1,Rice,669,Aashirvaad,964.25,0,0
+0,0,222.31,0,Sneakers,670,Adidas,148.79,0,1
+0,0,681.99,0,Washing Machine,671,LG,461.83,1,0
+0,0,516.02,0,Refrigerator,672,LG,370.55,1,0
+0,0,781.47,1,Cooking Oil,673,Aashirvaad,529.34,0,0
+0,0,792.39,1,Cooking Oil,674,Fortune,563.53,0,0
+1,0,855.43,0,Laptop,675,Lenovo,609.97,0,0
+0,0,159.35,1,Cooking Oil,676,Saffola,110.44,0,0
+0,0,1189.51,0,Refrigerator,677,Whirlpool,858.62,1,0
+0,0,1107.39,0,Refrigerator,678,Samsung,946.91,1,0
+0,1,303.44,0,Jeans,679,Levi's,272.02,0,0
+0,1,481.64,0,Jeans,680,H&M,324.76,0,0
+0,0,745.91,0,Sandals,681,Nike,587.37,0,1
+0,0,1058.67,1,Rice,682,Fortune,878.49,0,0
+0,0,34.73,0,Sandals,683,Adidas,30.87,0,1
+0,1,572.24,0,T-shirt,684,Uniqlo,519.05,0,0
+0,0,1315.8,1,Rice,685,Tata,945.14,0,0
+0,1,156.9,0,T-shirt,686,Zara,126.28,0,0
+0,0,614.82,0,Sneakers,687,Adidas,472.51,0,1
+0,1,310.4,0,Jeans,688,Uniqlo,239.73,0,0
+0,0,238.71,0,Sandals,689,Reebok,185.1,0,1
+1,0,261.35,0,Smartphone,690,Samsung,210.71,0,0
+0,1,1253.55,0,Jeans,691,Zara,965.66,0,0
+0,0,60.88,0,Sandals,692,Nike,47.12,0,1
+0,0,331.98,1,Cooking Oil,693,Fortune,265.27,0,0
+0,1,31.83,0,T-shirt,694,Levi's,27.63,0,0
+0,1,336.31,0,T-shirt,695,H&M,282.6,0,0
+1,0,57.44,0,Smartphone,696,Samsung,41.28,0,0
+0,0,207.38,0,Sneakers,697,Reebok,166.66,0,1
+0,0,674.74,1,Cooking Oil,698,Tata,514.74,0,0
+1,0,43.24,0,Laptop,699,Dell,37.6,0,0
+0,0,1211.36,1,Cooking Oil,700,Saffola,888.24,0,0
+0,1,684.47,0,T-shirt,701,Zara,560.35,0,0
+0,0,1134.44,1,Cooking Oil,702,Fortune,919.23,0,0
+1,0,790.61,0,Laptop,703,Lenovo,651.37,0,0
+1,0,1122.03,0,Smartphone,704,Dell,846.21,0,0
+0,1,146.91,0,Jeans,705,Zara,124.06,0,0
+0,0,876.48,0,Washing Machine,706,Samsung,596.72,1,0
+0,0,1338.16,1,Rice,707,Aashirvaad,993.92,0,0
+0,1,1227.18,0,T-shirt,708,Levi's,970.92,0,0
+0,0,934.06,1,Rice,709,Saffola,632.69,0,0
+1,0,451.4,0,Smartphone,710,Samsung,309.71,0,0
+1,0,1153.15,0,Smartphone,711,Samsung,934.29,0,0
+0,1,536.79,0,T-shirt,712,H&M,360.08,0,0
+0,0,381.36,0,Washing Machine,713,Samsung,311.1,1,0
+0,0,1385.78,0,Washing Machine,714,LG,926.22,1,0
+0,0,1066.23,0,Washing Machine,715,Samsung,941.25,1,0
+0,0,993.51,1,Rice,716,Fortune,753.76,0,0
+0,0,1263.43,1,Cooking Oil,717,Fortune,926.43,0,0
+0,0,706.95,0,Sneakers,718,Puma,621.16,0,1
+0,0,1091.75,1,Cooking Oil,719,Fortune,821.32,0,0
+0,1,996.51,0,T-shirt,720,Uniqlo,707.28,0,0
+0,1,324.71,0,Jeans,721,Levi's,253.88,0,0
+0,1,1478.3,0,T-shirt,722,Zara,998.9,0,0
+0,0,420.09,0,Washing Machine,723,Whirlpool,356.51,1,0
+0,1,350.08,0,Jeans,724,Levi's,246.37,0,0
+0,0,537.43,0,Sandals,725,Reebok,486.41,0,1
+0,1,892.29,0,T-shirt,726,Uniqlo,786.26,0,0
+0,0,1029.81,1,Cooking Oil,727,Fortune,689.34,0,0
+1,0,723.35,0,Laptop,728,Lenovo,502.15,0,0
+0,1,221.27,0,Jeans,729,Zara,198.99,0,0
+0,0,967.27,0,Sneakers,730,Puma,672.82,0,1
+0,0,173.34,1,Cooking Oil,731,Saffola,121.84,0,0
+0,0,1224.35,1,Rice,732,Aashirvaad,820.78,0,0
+0,0,509.39,1,Cooking Oil,733,Aashirvaad,438.55,0,0
+0,0,1108.87,1,Cooking Oil,734,Saffola,972.16,0,0
+1,0,685.34,0,Smartphone,735,Samsung,599.22,0,0
+1,0,203.72,0,Laptop,736,Dell,137.54,0,0
+0,1,876.57,0,Jeans,737,Uniqlo,627.04,0,0
+0,1,257.06,0,T-shirt,738,Levi's,204.52,0,0
+0,0,978.58,0,Sandals,739,Adidas,737.92,0,1
+1,0,867.34,0,Laptop,740,Lenovo,587.69,0,0
+1,0,543.01,0,Smartphone,741,Lenovo,414.21,0,0
+0,1,184.69,0,T-shirt,742,Uniqlo,151.38,0,0
+0,0,479.95,0,Washing Machine,743,Samsung,355.45,1,0
+0,0,845.84,0,Washing Machine,744,Samsung,670.41,1,0
+0,1,831.66,0,T-shirt,745,Zara,731.73,0,0
+0,0,85.1,0,Sandals,746,Reebok,56.77,0,1
+0,1,929.84,0,Jeans,747,Zara,659.89,0,0
+0,1,368.32,0,Jeans,748,H&M,258.68,0,0
+0,0,327.22,0,Sneakers,749,Reebok,220.68,0,1
+0,0,430.51,0,Washing Machine,750,Samsung,292.43,1,0
+0,0,843.47,0,Refrigerator,751,Bosch,681.93,1,0
+0,0,562.87,0,Refrigerator,752,Whirlpool,454.61,1,0
+0,1,1192.07,0,T-shirt,753,Uniqlo,851.55,0,0
+1,0,223.02,0,Laptop,754,Dell,156.55,0,0
+0,0,383.31,0,Washing Machine,755,LG,281.83,1,0
+0,0,815.81,0,Refrigerator,756,Samsung,617.96,1,0
+0,0,456.11,0,Sneakers,757,Nike,327.96,0,1
+1,0,100.2,0,Laptop,758,Apple,72.14,0,0
+0,0,800.78,1,Rice,759,Fortune,630.88,0,0
+0,0,671.6,1,Rice,760,Fortune,476.0,0,0
+0,1,1114.85,0,Jeans,761,Zara,854.97,0,0
+0,0,476.03,0,Sneakers,762,Adidas,368.07,0,1
+0,1,787.77,0,T-shirt,763,Uniqlo,626.46,0,0
+1,0,639.91,0,Smartphone,764,Apple,462.81,0,0
+0,0,101.88,0,Refrigerator,765,Whirlpool,83.07,1,0
+0,1,1097.72,0,T-shirt,766,Uniqlo,977.75,0,0
+0,0,845.28,1,Cooking Oil,767,Tata,720.83,0,0
+0,0,317.6,0,Washing Machine,768,Samsung,219.65,1,0
+0,0,353.54,0,Sandals,769,Reebok,258.88,0,1
+0,0,911.33,0,Sandals,770,Adidas,707.24,0,1
+0,0,556.47,0,Refrigerator,771,LG,412.71,1,0
+0,1,809.83,0,Jeans,772,Zara,715.22,0,0
+0,0,921.7,1,Cooking Oil,773,Fortune,683.67,0,0
+0,0,512.6,0,Sneakers,774,Reebok,352.55,0,1
+0,0,950.61,0,Sneakers,775,Adidas,676.18,0,1
+1,0,793.32,0,Laptop,776,Dell,565.67,0,0
+0,0,1013.91,0,Sneakers,777,Adidas,689.87,0,1
+0,0,628.42,0,Sneakers,778,Puma,508.9,0,1
+0,0,19.32,1,Rice,779,Aashirvaad,14.24,0,0
+0,0,1132.29,0,Refrigerator,780,Whirlpool,863.91,1,0
+1,0,1073.67,0,Smartphone,781,Lenovo,720.72,0,0
+0,0,325.22,1,Rice,782,Fortune,283.26,0,0
+1,0,247.36,0,Smartphone,783,Lenovo,210.65,0,0
+0,1,1274.61,0,T-shirt,784,H&M,933.5,0,0
+0,0,1227.67,0,Washing Machine,785,Samsung,912.21,1,0
+0,0,848.88,0,Sandals,786,Adidas,578.3,0,1
+0,0,822.18,0,Refrigerator,787,LG,658.93,1,0
+0,1,604.17,0,T-shirt,788,Zara,451.92,0,0
+0,0,1144.5,0,Sandals,789,Nike,954.98,0,1
+0,0,111.78,0,Sneakers,790,Nike,91.7,0,1
+0,0,791.58,0,Sneakers,791,Adidas,589.79,0,1
+0,0,1035.46,0,Sneakers,792,Puma,758.71,0,1
+0,0,1015.36,0,Sneakers,793,Nike,884.2,0,1
+0,0,1077.02,1,Rice,794,Aashirvaad,810.62,0,0
+0,0,210.45,0,Refrigerator,795,LG,175.89,1,0
+0,1,961.82,0,Jeans,796,Levi's,689.37,0,0
+1,0,1097.27,0,Smartphone,797,Dell,937.69,0,0
+0,0,351.14,1,Rice,798,Aashirvaad,251.58,0,0
+0,1,549.49,0,T-shirt,799,H&M,425.03,0,0
+0,1,440.74,0,T-shirt,800,Zara,344.32,0,0
+1,0,1117.73,0,Laptop,801,Lenovo,927.92,0,0
+0,0,389.33,0,Refrigerator,802,Whirlpool,275.94,1,0
+0,1,649.28,0,T-shirt,803,Levi's,563.34,0,0
+0,1,810.92,0,Jeans,804,Levi's,717.5,0,0
+0,0,930.59,1,Cooking Oil,805,Tata,701.25,0,0
+0,1,23.92,0,T-shirt,806,Uniqlo,17.19,0,0
+0,0,217.69,0,Sandals,807,Reebok,189.09,0,1
+0,0,318.78,0,Refrigerator,808,LG,285.48,1,0
+0,0,647.39,1,Cooking Oil,809,Aashirvaad,514.6,0,0
+0,0,197.1,0,Sandals,810,Reebok,144.88,0,1
+0,1,166.66,0,T-shirt,811,Zara,126.22,0,0
+1,0,453.39,0,Smartphone,812,Dell,348.05,0,0
+1,0,1090.27,0,Laptop,813,Dell,785.3,0,0
+0,0,602.87,1,Rice,814,Saffola,498.68,0,0
+0,0,562.42,1,Rice,815,Aashirvaad,415.56,0,0
+0,0,1163.43,0,Sneakers,816,Nike,816.17,0,1
+0,0,1015.78,0,Washing Machine,817,Bosch,805.09,1,0
+1,0,977.59,0,Smartphone,818,Apple,752.64,0,0
+0,0,1349.7,1,Cooking Oil,819,Saffola,987.99,0,0
+1,0,283.94,0,Laptop,820,Samsung,236.44,0,0
+0,0,377.59,0,Sneakers,821,Puma,270.37,0,1
+0,0,22.57,0,Washing Machine,822,Samsung,19.83,1,0
+0,0,1033.37,1,Cooking Oil,823,Fortune,756.06,0,0
+0,0,520.4,1,Rice,824,Fortune,405.84,0,0
+0,0,1258.9,1,Cooking Oil,825,Tata,903.46,0,0
+0,1,277.37,0,Jeans,826,Uniqlo,205.37,0,0
+0,0,682.31,1,Rice,827,Tata,540.11,0,0
+0,0,424.45,0,Refrigerator,828,Samsung,324.57,1,0
+1,0,261.22,0,Smartphone,829,Apple,230.61,0,0
+0,0,631.23,0,Sneakers,830,Reebok,545.93,0,1
+0,0,770.09,0,Sandals,831,Puma,516.56,0,1
+0,0,721.53,0,Sneakers,832,Adidas,536.74,0,1
+0,1,927.47,0,T-shirt,833,Uniqlo,775.39,0,0
+0,0,609.46,1,Cooking Oil,834,Aashirvaad,531.55,0,0
+1,0,238.38,0,Laptop,835,Lenovo,192.52,0,0
+0,0,679.6,1,Rice,836,Fortune,583.85,0,0
+0,1,527.04,0,T-shirt,837,Zara,408.82,0,0
+0,1,218.89,0,T-shirt,838,Uniqlo,151.98,0,0
+1,0,517.4,0,Smartphone,839,Lenovo,396.86,0,0
+0,0,1040.7,1,Rice,840,Tata,940.63,0,0
+0,1,838.53,0,Jeans,841,Zara,589.09,0,0
+0,0,1234.33,0,Sneakers,842,Puma,973.36,0,1
+0,0,15.43,0,Sneakers,843,Reebok,11.53,0,1
+0,0,1219.54,0,Sneakers,844,Reebok,926.02,0,1
+0,1,563.72,0,Jeans,845,Zara,503.78,0,0
+0,1,96.29,0,T-shirt,846,Uniqlo,86.96,0,0
+0,0,419.08,0,Sandals,847,Nike,294.64,0,1
+0,1,787.63,0,Jeans,848,Zara,560.15,0,0
+1,0,131.02,0,Laptop,849,Lenovo,106.51,0,0
+0,0,26.03,0,Sneakers,850,Puma,20.45,0,1
+0,0,596.6,0,Refrigerator,851,Samsung,477.22,1,0
+1,0,723.43,0,Laptop,852,Apple,501.62,0,0
+0,1,189.11,0,T-shirt,853,Zara,151.48,0,0
+1,0,931.65,0,Laptop,854,Lenovo,690.27,0,0
+0,0,1007.51,0,Refrigerator,855,Samsung,750.71,1,0
+0,0,201.79,0,Refrigerator,856,Whirlpool,163.79,1,0
+0,0,926.12,0,Washing Machine,857,Whirlpool,739.79,1,0
+0,1,487.41,0,Jeans,858,Levi's,361.03,0,0
+0,0,1155.63,0,Sandals,859,Reebok,927.11,0,1
+1,0,719.74,0,Laptop,860,Lenovo,599.61,0,0
+0,1,678.59,0,Jeans,861,Uniqlo,557.07,0,0
+0,0,279.56,1,Rice,862,Aashirvaad,238.13,0,0
+0,1,899.58,0,T-shirt,863,Levi's,724.47,0,0
+0,1,1059.46,0,T-shirt,864,Uniqlo,822.45,0,0
+0,1,945.73,0,Jeans,865,Levi's,672.57,0,0
+0,0,282.27,0,Sandals,866,Nike,228.9,0,1
+0,1,458.34,0,Jeans,867,Levi's,343.92,0,0
+0,0,580.35,1,Rice,868,Tata,487.69,0,0
+0,0,462.23,0,Refrigerator,869,LG,316.98,1,0
+1,0,504.56,0,Smartphone,870,Samsung,366.05,0,0
+0,0,841.47,1,Rice,871,Aashirvaad,592.0,0,0
+0,1,689.59,0,Jeans,872,H&M,512.9,0,0
+0,1,854.68,0,T-shirt,873,Uniqlo,713.17,0,0
+1,0,168.29,0,Laptop,874,Apple,152.83,0,0
+0,0,846.68,0,Washing Machine,875,Whirlpool,617.2,1,0
+1,0,1036.32,0,Smartphone,876,Lenovo,755.04,0,0
+1,0,333.48,0,Smartphone,877,Samsung,272.12,0,0
+0,1,759.3,0,T-shirt,878,Levi's,524.97,0,0
+0,0,881.25,0,Refrigerator,879,LG,696.23,1,0
+0,0,306.46,1,Rice,880,Tata,204.87,0,0
+0,0,1002.32,0,Sandals,881,Puma,884.1,0,1
+0,1,598.89,0,T-shirt,882,H&M,522.56,0,0
+0,0,292.7,1,Rice,883,Saffola,215.16,0,0
+1,0,1092.54,0,Smartphone,884,Samsung,876.73,0,0
+0,0,775.97,1,Cooking Oil,885,Saffola,637.57,0,0
+0,1,897.9,0,Jeans,886,Zara,741.76,0,0
+0,0,216.2,1,Rice,887,Saffola,145.24,0,0
+0,0,201.36,1,Cooking Oil,888,Fortune,146.69,0,0
+0,1,374.12,0,Jeans,889,Uniqlo,318.44,0,0
+0,0,338.41,1,Cooking Oil,890,Saffola,272.68,0,0
+0,1,270.48,0,Jeans,891,Levi's,205.98,0,0
+0,1,607.38,0,T-shirt,892,Levi's,483.99,0,0
+0,1,1020.51,0,Jeans,893,Zara,908.66,0,0
+0,1,391.08,0,Jeans,894,Levi's,276.25,0,0
+0,0,422.36,1,Cooking Oil,895,Saffola,376.13,0,0
+0,0,278.08,1,Rice,896,Tata,211.03,0,0
+0,0,406.27,0,Refrigerator,897,Bosch,330.58,1,0
+0,0,810.15,1,Rice,898,Tata,693.2,0,0
+0,0,314.84,0,Refrigerator,899,Whirlpool,281.27,1,0
+0,0,195.53,0,Refrigerator,900,LG,163.84,1,0
+0,1,310.04,0,T-shirt,901,Levi's,223.06,0,0
+1,0,976.12,0,Smartphone,902,Dell,671.9,0,0
+0,0,140.61,0,Refrigerator,903,Samsung,112.51,1,0
+0,0,430.68,0,Refrigerator,904,Samsung,294.56,1,0
+1,0,198.54,0,Smartphone,905,Lenovo,136.43,0,0
+0,0,20.99,0,Washing Machine,906,Samsung,14.26,1,0
+0,0,635.63,1,Cooking Oil,907,Tata,430.15,0,0
+0,0,822.33,0,Sneakers,908,Puma,592.78,0,1
+0,1,57.63,0,Jeans,909,Levi's,42.5,0,0
+0,1,1281.1,0,T-shirt,910,H&M,928.73,0,0
+1,0,31.56,0,Smartphone,911,Samsung,25.2,0,0
+0,0,856.16,0,Washing Machine,912,LG,737.74,1,0
+0,0,516.74,0,Refrigerator,913,Samsung,349.58,1,0
+0,0,606.25,0,Refrigerator,914,Whirlpool,443.69,1,0
+0,0,245.28,0,Sneakers,915,Reebok,170.38,0,1
+0,0,745.83,0,Washing Machine,916,Bosch,554.47,1,0
+1,0,706.31,0,Laptop,917,Dell,543.84,0,0
+0,0,78.33,0,Sneakers,918,Puma,56.24,0,1
+0,1,1239.48,0,T-shirt,919,Uniqlo,924.34,0,0
+0,0,938.25,0,Washing Machine,920,Whirlpool,830.72,1,0
+0,1,1009.09,0,T-shirt,921,Levi's,844.67,0,0
+0,0,498.03,1,Cooking Oil,922,Fortune,352.67,0,0
+0,0,1067.68,0,Sneakers,923,Puma,752.45,0,1
+1,0,92.08,0,Laptop,924,Dell,81.5,0,0
+0,0,1078.86,0,Refrigerator,925,LG,821.54,1,0
+0,0,74.91,0,Sandals,926,Nike,55.07,0,1
+1,0,666.13,0,Laptop,927,Apple,579.19,0,0
+0,1,947.63,0,T-shirt,928,Zara,691.54,0,0
+0,1,1386.63,0,Jeans,929,Levi's,987.85,0,0
+0,0,640.3,1,Rice,930,Tata,437.81,0,0
+0,0,27.08,0,Washing Machine,931,Samsung,24.59,1,0
+1,0,125.6,0,Smartphone,932,Dell,102.01,0,0
+0,0,785.75,1,Rice,933,Fortune,603.88,0,0
+1,0,1192.96,0,Smartphone,934,Samsung,933.08,0,0
+0,0,1477.33,1,Rice,935,Saffola,996.93,0,0
+0,1,1406.65,0,Jeans,936,Uniqlo,980.5,0,0
+0,0,630.17,1,Rice,937,Tata,448.16,0,0
+0,0,137.17,1,Rice,938,Tata,121.86,0,0
+0,0,931.92,1,Rice,939,Aashirvaad,634.42,0,0
+0,0,1005.16,0,Sandals,940,Nike,912.48,0,1
+0,0,572.02,0,Sandals,941,Puma,387.02,0,1
+0,0,820.47,1,Rice,942,Tata,742.71,0,0
+0,0,771.88,0,Sneakers,943,Reebok,691.99,0,1
+1,0,888.99,0,Laptop,944,Dell,673.15,0,0
+0,0,470.36,0,Washing Machine,945,Samsung,363.17,1,0
+0,1,64.49,0,Jeans,946,H&M,49.93,0,0
+0,1,601.46,0,T-shirt,947,H&M,432.99,0,0
+0,1,1065.71,0,Jeans,948,Uniqlo,724.44,0,0
+0,0,785.65,0,Sandals,949,Puma,624.06,0,1
+0,0,724.45,0,Sneakers,950,Adidas,593.51,0,1
+1,0,831.83,0,Laptop,951,Dell,582.96,0,0
+1,0,971.11,0,Smartphone,952,Dell,782.45,0,0
+1,0,735.64,0,Smartphone,953,Apple,616.42,0,0
+0,1,978.29,0,Jeans,954,Uniqlo,680.02,0,0
+0,0,646.44,1,Cooking Oil,955,Saffola,443.77,0,0
+1,0,311.55,0,Smartphone,956,Apple,215.43,0,0
+1,0,992.23,0,Smartphone,957,Apple,740.74,0,0
+0,0,849.72,0,Washing Machine,958,Bosch,662.53,1,0
+0,0,241.3,0,Washing Machine,959,Whirlpool,203.57,1,0
+0,0,1283.33,0,Sandals,960,Nike,926.54,0,1
+0,0,1124.31,0,Sandals,961,Puma,755.19,0,1
+1,0,1360.4,0,Smartphone,962,Apple,978.71,0,0
+1,0,917.54,0,Smartphone,963,Lenovo,695.24,0,0
+0,0,508.32,1,Cooking Oil,964,Tata,366.96,0,0
+0,0,62.43,1,Rice,965,Aashirvaad,48.57,0,0
+0,0,534.01,1,Cooking Oil,966,Fortune,441.6,0,0
+0,0,1449.29,1,Cooking Oil,967,Tata,976.91,0,0
+0,0,1141.29,0,Refrigerator,968,Bosch,941.54,1,0
+0,1,15.81,0,Jeans,969,Uniqlo,11.8,0,0
+0,0,435.72,0,Sneakers,970,Adidas,299.14,0,1
+0,0,1288.94,1,Cooking Oil,971,Saffola,913.36,0,0
+0,0,166.02,0,Refrigerator,972,Whirlpool,127.28,1,0
+0,1,463.26,0,T-shirt,973,Zara,382.91,0,0
+1,0,731.48,0,Smartphone,974,Apple,571.56,0,0
+0,1,308.09,0,T-shirt,975,H&M,252.67,0,0
+0,0,1116.01,0,Sneakers,976,Puma,994.28,0,1
+0,0,972.46,1,Rice,977,Aashirvaad,813.75,0,0
+0,1,871.02,0,Jeans,978,Levi's,760.57,0,0
+0,0,117.32,0,Sneakers,979,Puma,98.5,0,1
+0,0,1060.47,0,Sandals,980,Nike,862.22,0,1
+0,0,192.13,0,Washing Machine,981,Samsung,142.13,1,0
+0,0,837.15,0,Refrigerator,982,Whirlpool,755.06,1,0
+0,0,789.23,0,Washing Machine,983,Bosch,571.85,1,0
+0,0,28.15,1,Cooking Oil,984,Saffola,24.9,0,0
+0,0,327.82,0,Refrigerator,985,Samsung,284.91,1,0
+0,0,37.51,1,Cooking Oil,986,Aashirvaad,32.93,0,0
+0,0,776.54,0,Sneakers,987,Puma,630.46,0,1
+0,0,87.86,1,Cooking Oil,988,Fortune,63.32,0,0
+0,1,685.56,0,T-shirt,989,Zara,593.25,0,0
+0,0,126.65,0,Sneakers,990,Reebok,100.85,0,1
+0,0,50.07,0,Washing Machine,991,LG,39.38,1,0
+1,0,55.63,0,Laptop,992,Apple,49.97,0,0
+0,1,1213.03,0,T-shirt,993,Zara,952.9,0,0
+0,0,1150.89,1,Rice,994,Fortune,960.72,0,0
+0,0,784.66,0,Sneakers,995,Nike,610.31,0,1
+0,0,1253.16,0,Washing Machine,996,Samsung,934.9,1,0
+0,1,31.57,0,Jeans,997,Levi's,23.36,0,0
+0,0,469.61,0,Refrigerator,998,Samsung,352.59,1,0
+0,0,100.09,0,Washing Machine,999,Whirlpool,79.1,1,0
+0,0,619.34,0,Refrigerator,1000,Samsung,427.85,1,0
